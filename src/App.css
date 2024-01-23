@@ -40,12 +40,9 @@ h1 {
 
 
 button {
-  
-  background-image: linear-gradient(to left, #da842e 0%, #d1bb80  51%, #9D50BB  100%);
+  background-color: #b351d4;
   width: 20%;
   text-align: center;
-  transition: 0.5s;
-  background-size: 200% auto;
   color: rgb(255, 253, 253);            
   box-shadow: 0 0 20px #eee;
   border: none;
@@ -60,9 +57,7 @@ button {
   }
 
   button:hover {
-    background-position: right center; 
-    color: #fff;
-    text-decoration: none;
+    background-color: #a02fc5;
   }
 
 
